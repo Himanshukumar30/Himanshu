@@ -1,5 +1,3 @@
 # Himanshu's Portfolio
 
-This is my portfolio site. I'll post the link here once it completed.
-
-
+This is my portfolio site. I'll post the link here soon!
