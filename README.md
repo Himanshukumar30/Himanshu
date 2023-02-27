@@ -1,3 +1,3 @@
 # Himanshu's Portfolio
 
-Live at https://coderhimanshu.com/
+Live: <a href="https://coderhimanshu.com/" target="_blank">coderhimanshu.com</a>
