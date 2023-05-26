@@ -157,7 +157,7 @@ header {
   background-position: center;
   background-image: url("../img/header.svg");
   text-align: center;
-  color: white;
+  color: rgb(3, 3, 14);
   .header-content {
     position: relative;
     text-align: center;
@@ -231,7 +231,7 @@ header {
     color: white;
     opacity: 0;
     display: block;
-    background: rgba($theme-primary, 0.9);
+    background: rgba($theme-primary, 0.5);
     position: absolute;
     bottom: 0;
     text-align: center;
