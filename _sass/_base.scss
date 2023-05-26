@@ -203,6 +203,10 @@ header {
       }
     }
   }
+  @media (max-width: 768px) {
+    background-image: url("../img/header.svg");
+    background-size: cover;
+  }
 }
 
 // Sections
