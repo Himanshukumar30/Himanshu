@@ -315,6 +315,18 @@ header {
   padding: 15px 30px;
 }
 
+// About
+
+#about {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  @include background-cover;
+  background-position: center;
+  background-image: url("../img/callToAction.svg");
+  text-align: center;
+}
+
 // Contact
 #contact .fa {
   color: $theme-dark;
