@@ -91,7 +91,7 @@ aside {
         text-transform: uppercase;
         font-weight: 700;
         font-size: 13px;
-        color: $theme-primary;
+        color: $theme-dark;
         &:hover {
           color: $theme-primary;
         }
@@ -112,17 +112,17 @@ aside {
     background-color: transparent;
     border-color: rgba(white, 0.3);
     .navbar-header .navbar-brand {
-      color: rgba(#011c27, 0.7);
+      color: rgba(white, 0.7);
       &:hover,
       &:focus {
-        color: #f48668;
+        color: white;
       }
     }
     .nav > li > a,
     .nav > li > a:focus {
-      color: rgba(#011c27, 0.7);
+      color: rgba(white, 0.7);
       &:hover {
-        color: #f48668;
+        color: white;
       }
     }
     &.affix {
@@ -157,7 +157,7 @@ header {
   background-position: center;
   background-color: #f5f8fa;
   text-align: center;
-  color: rgb(3, 3, 14);
+  color: white;
   .header-content {
     position: relative;
     text-align: center;
@@ -175,7 +175,7 @@ header {
       }
       p {
         font-weight: 300;
-        color: rgba(white, 0.7);
+        color: rgba(rgb(50, 49, 49), 0.7);
         font-size: 16px;
         margin-bottom: 50px;
       }
@@ -313,11 +313,6 @@ header {
 
 .btn-xl {
   padding: 15px 30px;
-}
-
-// Blog
-#blog {
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
 // Contact
