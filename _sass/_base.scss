@@ -225,9 +225,10 @@ header {
 .portfolio-box {
   position: relative;
   display: block;
-  max-width: 850px;
+  max-width: 750px;
   margin: 0 auto;
-  border: 2px black solid;
+  border: 3px black solid;
+  border-radius: 10px;
   .portfolio-box-caption {
     color: white;
     opacity: 0;
