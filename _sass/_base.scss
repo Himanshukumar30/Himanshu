@@ -225,15 +225,15 @@ header {
 .portfolio-box {
   position: relative;
   display: block;
-  max-width: 600px;
-  max-height: 300px;
+  width: 600px;
+  height: 300px;
   margin: 0 auto;
   border: 3px black solid;
   border-radius: 25px;
   .img-responsive {
     border-radius: 25px;
     width: 700px;
-    max-height: 280px;
+    height: 280px;
   }
   .portfolio-box-caption {
     color: white;
